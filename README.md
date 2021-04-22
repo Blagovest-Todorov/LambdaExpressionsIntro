@@ -1,2 +1,2 @@
 # LambdaExpressionsIntro
-some example with Lambda Expresssions , short explanation
+some example with Lambda Expressions , short explanation
