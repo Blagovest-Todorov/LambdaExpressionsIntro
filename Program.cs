@@ -21,8 +21,7 @@ namespace LambdaExp
                 })
                 .ToArray();
 
-            Console.WriteLine(string.Join(" ", evenNumbers));
-            
+            Console.WriteLine(string.Join(" ", evenNumbers));            
         }
     }
 }
